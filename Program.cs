@@ -51,7 +51,6 @@ namespace ListaRepet // Note: actual namespace depends on the project name.
                         ex6.Questao();
                         break;
                     case 7:
-                    //Não Finalizado
                         Exercicio7 ex7 = new Exercicio7();
                         Console.Clear();
                         ex7.Questao();
