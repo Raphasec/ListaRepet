@@ -13,3 +13,18 @@ C:\Users\Micro\Downloads\ListaRepet(Raphael)\obj\Debug\net6.0\refint\ListaRepet(
 C:\Users\Micro\Downloads\ListaRepet(Raphael)\obj\Debug\net6.0\ListaRepet(Raphael).pdb
 C:\Users\Micro\Downloads\ListaRepet(Raphael)\obj\Debug\net6.0\ListaRepet(Raphael).genruntimeconfig.cache
 C:\Users\Micro\Downloads\ListaRepet(Raphael)\obj\Debug\net6.0\ref\ListaRepet(Raphael).dll
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\bin\Debug\net6.0\ListaRepet(Raphael).exe
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\bin\Debug\net6.0\ListaRepet(Raphael).deps.json
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\bin\Debug\net6.0\ListaRepet(Raphael).runtimeconfig.json
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\bin\Debug\net6.0\ListaRepet(Raphael).dll
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\bin\Debug\net6.0\ListaRepet(Raphael).pdb
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\obj\Debug\net6.0\ListaRepet(Raphael).csproj.AssemblyReference.cache
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\obj\Debug\net6.0\ListaRepet(Raphael).GeneratedMSBuildEditorConfig.editorconfig
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\obj\Debug\net6.0\ListaRepet(Raphael).AssemblyInfoInputs.cache
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\obj\Debug\net6.0\ListaRepet(Raphael).AssemblyInfo.cs
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\obj\Debug\net6.0\ListaRepet(Raphael).csproj.CoreCompileInputs.cache
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\obj\Debug\net6.0\ListaRepet(Raphael).dll
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\obj\Debug\net6.0\refint\ListaRepet(Raphael).dll
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\obj\Debug\net6.0\ListaRepet(Raphael).pdb
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\obj\Debug\net6.0\ListaRepet(Raphael).genruntimeconfig.cache
+D:\Ifes\Programação para Web\ListaRepet(Raphael)\obj\Debug\net6.0\ref\ListaRepet(Raphael).dll

@@ -56,8 +56,14 @@ namespace ListaRepet // Note: actual namespace depends on the project name.
                         ex7.Questao();
                         break;
                     case 8:
+                        Exercicio8 ex8 = new Exercicio8();
+                        Console.Clear();
+                        ex8.Questao();
                         break;
                     case 9:
+                        // Exercicio9 ex9 = new Exercicio9();
+                        // Console.Clear();
+                        // ex9.Questao();
                         break;
                     case 10:
                         break;

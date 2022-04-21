@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Micro\\Downloads\\ListaRepet(Raphael)\\ListaRepet(Raphael).csproj": {}
+    "D:\\Ifes\\Programação para Web\\ListaRepet(Raphael)\\ListaRepet(Raphael).csproj": {}
   },
   "projects": {
-    "C:\\Users\\Micro\\Downloads\\ListaRepet(Raphael)\\ListaRepet(Raphael).csproj": {
+    "D:\\Ifes\\Programação para Web\\ListaRepet(Raphael)\\ListaRepet(Raphael).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Micro\\Downloads\\ListaRepet(Raphael)\\ListaRepet(Raphael).csproj",
+        "projectUniqueName": "D:\\Ifes\\Programação para Web\\ListaRepet(Raphael)\\ListaRepet(Raphael).csproj",
         "projectName": "ListaRepet(Raphael)",
-        "projectPath": "C:\\Users\\Micro\\Downloads\\ListaRepet(Raphael)\\ListaRepet(Raphael).csproj",
-        "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Micro\\Downloads\\ListaRepet(Raphael)\\obj\\",
+        "projectPath": "D:\\Ifes\\Programação para Web\\ListaRepet(Raphael)\\ListaRepet(Raphael).csproj",
+        "packagesPath": "C:\\Users\\_RFS_\\.nuget\\packages\\",
+        "outputPath": "D:\\Ifes\\Programação para Web\\ListaRepet(Raphael)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\_RFS_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
