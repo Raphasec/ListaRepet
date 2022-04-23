@@ -76,12 +76,25 @@ namespace ListaRepet // Note: actual namespace depends on the project name.
                         ex11.Questao();
                         break;
                     case 12:
+                        Exercicio12 ex12 = new Exercicio12();
+                        Console.Clear();
+                        ex12.Questao();
                         break;
                     case 13:
+                        Exercicio13 ex13 = new Exercicio13();
+                        Console.Clear();
+                        ex13.Questao();
                         break;
                     case 14:
+                        Exercicio14 ex14 = new Exercicio14();
+                        Console.Clear();
+                        ex14.Questao();
                         break;
                     case 15:
+                        // Não finalizado
+                        Exercicio15 ex15 = new Exercicio15();
+                        Console.Clear();
+                        ex15.Questao();
                         break;
                     default:
                         Console.WriteLine("Erro, tente novamente pressionando qualquer tecla!");
