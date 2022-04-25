@@ -91,15 +91,13 @@ namespace ListaRepet // Note: actual namespace depends on the project name.
                         ex14.Questao();
                         break;
                     case 15:
-                        // Não finalizado
                         Exercicio15 ex15 = new Exercicio15();
                         Console.Clear();
                         ex15.Questao();
                         break;
                     default:
-                        Console.WriteLine("Erro, tente novamente pressionando qualquer tecla!");
+                        Console.WriteLine("\nErro!!! Número de questão inválido");
                         repet = 1;
-                        Console.ReadKey();
                         break;
                 }
                 Console.WriteLine("\nDeseja tentar novamente?[S/N]");
